@@ -1,5 +1,5 @@
 {
-  "name": "@starknetid/identicons",
+  "name": "starknetid-identicons",
   "version": "1.6.0",
   "description": "StarknetID variation of Nimiq identicons",
   "main": "dist/identicons.bundle.cjs.js",
